@@ -7,7 +7,7 @@ from numpy.core import numeric
 from numpy.core.numeric import cross 
 
 print("ALGORITMO GENÉTICO: OTIMIZAÇÃO DOS PARÂMETROS DE UMA CAIXA PRETA")
-print("Algortimo feito por David Li Zhao(18202656) e Guilherme Pokomaier Moreira(18207035) para a disciplina de Inteligência Artifical da Universidade Federal de Santa Catarina")
+print("Algortimo feito por David Li Zhao(18202656) para a disciplina de Inteligência Artifical da Universidade Federal de Santa Catarina")
 print("Técnicas utilizadas: Mutação Simples e Crossover por Elitismo")
 print("")
 
